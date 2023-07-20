@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noob-to-linux
-- 👀 I’m interested in linux, bash shell scripts, APIs, java, java script, nodejs and python
+- 👀 I’m interested in linux, bash shell scripts, APIs, java, and python
 - 🌱 I’m currently learning shell scripts and java
 - 📫 You can reach me on noob.to.linux@gmail.com
 
