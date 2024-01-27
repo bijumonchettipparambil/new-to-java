@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noob-to-linux
+- 👋 Hi, I’m @new-to-java
 - 👀 I’m interested in linux, bash shell scripts, APIs, java, and python
 - 🌱 I’m currently learning shell scripts and java
 - 📫 You can reach me on noob.to.linux@gmail.com
