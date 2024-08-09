@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @new-to-java
+- 👋 Hi, I’m @bijumonchettipparambil
 - 👀 I’m interested in linux, bash shell scripts, APIs, java, and python
 - 🌱 I’m currently learning shell scripts and java
 - 📫 You can reach me on bijumoncpavanajan@gmail.com
